@@ -39,7 +39,30 @@
 * Python – Django
 * C# – .NET framework
 
+### 關於 軟實力
+
+## 重點軟實力簡介
+* 分析能力與運算思維
+  * 擁有良好分析能力的人，能夠將複雜的問題拆解成較小的問題，再從中分類、歸納、推理因果關係，甚至預測與驗證、找到核心議題，亦能讓蒐集資訊、詮釋、過濾與整合的過程更加順暢，能清晰理解當前的狀況，找出最理想的解決方案。
+  * 運算思維本身又可分成四個能力：拆解、找出規律、歸納與抽象化、設計演算法。
+   * 延伸閱讀：[認識演算法（Algorithm）與運算思維（Computational Thinking）](https://tw.alphacamp.co/blog/algorithm-and-computational-thinking)
+* 情商
+  * 一方面是牽涉到面對困難挑戰時的抗壓性；另一方面，若能妥善理解與處理私人情緒，便能減少其影響到工作成效的機會。此外，提高對自我情緒的覺察力以及適當地表達情緒，也能使自己的身心健康更加穩定。
+
+## 常見的軟實力
+常見的軟實力有：耐心、團隊合作能力、溝通說服能力、問題解決能力、適應力、創造力、情商指數等等。<br>
+不管是職場上或是生活上最重要的 7 項軟實力能力，包括：
+* 團隊協作能力
+* 溝通技巧與說服能力
+* 複雜問題解決能力
+* 變化適應力
+* 學習力
+* 創造力
+* 情商能力
+
 ## 參考&引用來源：
 * [什麼是前端工程師(Front end Developer)？要成為前端工程師要學習什麼樣的技術呢？](https://progressbar.tw/posts/295)
 * [後端工程師(Back end Developer)是什麼？成為後端需要學習什麼技術？很難嗎？](https://progressbar.tw/posts/305)
 * [Day21 - 何謂框架?](https://ithelp.ithome.com.tw/articles/10248882)
+* [應對未來工作挑戰，該具備的 5 種軟實力與硬實力](https://tw.alphacamp.co/blog/must-have-soft-skills)
+* [軟實力是什麼意思？與硬實力差在哪？推薦7個一生必學的軟實力](https://sky-mba.com/learn-soft-skills/)
