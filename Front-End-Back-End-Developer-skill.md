@@ -3,15 +3,15 @@
 以下內容是閱讀了網路文章，做的簡單節錄，算是個簡單自我提醒，讓我檢視還有什麼項目是我所欠缺的。
 
 ## 「前端工程師」要會的低標：
- * 1. HTML (非常重要)
- * 2. CSS (非常重要)
- * 3. JavaScript ES5 (非常重要) 
- * 4. 熟練 AJAX 與 Web API (非常重要) 
- * 5. JavaScript ES6 、Babel 與 Webpack (重要)
- * 6. SCSS (還算重要)
- * 7. React.js、Vue.js、Angular 選一個 (還算重要)
- * 8. jQuery (某些工作需要)
- * 9. Git (工作需要，但有些公司認為這很容易上手所以不會進來再學即可)。
+1. HTML (非常重要)
+2. CSS (非常重要)
+3. JavaScript ES5 (非常重要) 
+4. 熟練 AJAX 與 Web API (非常重要) 
+5. JavaScript ES6 、Babel 與 Webpack (重要)
+6. SCSS (還算重要)
+7. React.js、Vue.js、Angular 選一個 (還算重要)
+8. jQuery (某些工作需要)
+9. Git (工作需要，但有些公司認為這很容易上手所以不會進來再學即可)。
 
 ## 後端主流的程式語言
 包含但不限於 PHP、Ruby、Node.js、Java、Python、C#、Go...等。 
